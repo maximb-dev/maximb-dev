@@ -7,6 +7,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSC" **alt="VSC" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="WS" **alt="VSC" width="60" height="60"/>
 </div>
 
 ### :fire: My Stats :
